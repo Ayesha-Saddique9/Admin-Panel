@@ -1,7 +1,7 @@
 # 🛍️ AyeshaMart - Premium Admin Dashboard Panel
 
 A responsive, high-performance E-Commerce Admin Console built with **React**, **Vite**, and **Tailwind CSS**. This dashboard enables store operators to manage dynamic product catalogs, monitor revenue metrics, sort inventory listings, and handle validation-secured workflows.
-
+<br/>
 
 
 
@@ -20,7 +20,7 @@ A responsive, high-performance E-Commerce Admin Console built with **React**, **
 
 ---
 ## 🚀 Live Demo
-👉 https://your-username.github.io/your-repo-name/
+👉 https://ayesha-saddique9.github.io/Admin-Panel/
 
 ---
 ## 📸 Screenshots
@@ -93,11 +93,11 @@ npm run dev
 ```
 ---
 ## 🚀Future Improvement
--🔔 Toast notifications
--⏳ Loading skeletons
--📱 Better mobile table UI
--🔐 Authentication system
--🌐 Backend integration (MERN)
+- 🔔 Toast notifications
+- ⏳ Loading skeletons
+- 📱 Better mobile table UI
+- 🔐 Authentication system
+- 🌐 Backend integration (MERN)
 ---
 
 ## 👩‍💻 Author
