@@ -25,10 +25,10 @@ A responsive, high-performance E-Commerce Admin Console built with **React**, **
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./admin-panel./Screenshots/dashboard.png)
 
 ### 📦 Products
-![Products](./screenshots/products.png)
+![Products](./admin-panel./Screenshots/products.png)
 
 ---
 ## ✨ Features
