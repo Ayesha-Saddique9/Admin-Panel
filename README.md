@@ -6,13 +6,6 @@ A responsive, high-performance E-Commerce Admin Console built with **React**, **
 
 <div align="center">
 
-  <a href="https://YOUR-GITHUB-USERNAME.github.io/REPOSITORY-NAME/">
-    <img src="https://img.shields.io/badge/🔗%20LIVE%20DEMO-000000?style=for-the-badge&logo=react&logoColor=white" alt="Live Demo" />
-  </a>
-
-  <br />
-  <br />
-
   <!-- TECH STACK BADGES -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
