@@ -2,7 +2,6 @@
 
 A responsive, high-performance E-Commerce Admin Console built with **React**, **Vite**, and **Tailwind CSS**. This dashboard enables store operators to manage dynamic product catalogs, monitor revenue metrics, sort inventory listings, and handle validation-secured workflows.
 
----
 
 <div align="center">
 
